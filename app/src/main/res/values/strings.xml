@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JasperKH</string>
+    <string name="syncBtnLbl">Aktualisieren</string>
 </resources>
